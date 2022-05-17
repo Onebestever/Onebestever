@@ -10,7 +10,7 @@ I am a Software Engineer based in Boston, MA experienced in both frontend and ba
 Find me around the web 🌎:
 https://www.linkedin.com/in/carla-hores/
 Tweet me on Twitter 🏓
-https://twitter.com/carlaH1248
+@thealTECHmist
 
 - 🔭 I’m currently working on this page. 
 
